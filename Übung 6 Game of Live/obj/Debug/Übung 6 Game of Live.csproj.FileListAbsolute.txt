@@ -1,0 +1,30 @@
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\bin\Debug\Übung 6 Game of Live.exe.config
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\bin\Debug\Übung 6 Game of Live.exe
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\bin\Debug\Übung 6 Game of Live.pdb
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.csprojAssemblyReference.cache
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung_6_Game_of_Live.Form1.resources
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung_6_Game_of_Live.Properties.Resources.resources
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.csproj.GenerateResource.cache
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.exe
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.pdb
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\bin\Debug\Übung 6 Game of Live.exe.config
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\bin\Debug\Übung 6 Game of Live.exe
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\bin\Debug\Übung 6 Game of Live.pdb
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung_6_Game_of_Live.Form1.resources
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung_6_Game_of_Live.Properties.Resources.resources
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.csproj.GenerateResource.cache
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.exe
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.pdb
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.csproj.CoreCompileInputs.cache
+C:\Users\A.Krapp\Desktop\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.csproj.AssemblyReference.cache
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\bin\Debug\Übung 6 Game of Live.exe.config
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\bin\Debug\Übung 6 Game of Live.exe
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\bin\Debug\Übung 6 Game of Live.pdb
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.csproj.AssemblyReference.cache
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.csproj.SuggestedBindingRedirects.cache
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung_6_Game_of_Live.Form1.resources
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung_6_Game_of_Live.Properties.Resources.resources
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.csproj.GenerateResource.cache
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.csproj.CoreCompileInputs.cache
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.exe
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\WinForms\Übung 6 Game of Live\Übung 6 Game of Live\obj\Debug\Übung 6 Game of Live.pdb
